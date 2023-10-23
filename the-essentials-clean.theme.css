@@ -1,0 +1,38 @@
+/**
+ * @name The Essentials: Charcoal Mint
+ * @author KayoticCarnige
+ * @authorId 634168893644210186
+ * @authorLink https://github.com/kckarnige/essential-theme
+ * @version 1.0.0
+ * @description A Discord theme to help whitten your teeth.
+ * @donate https://ko-fi.com/kckarnige
+ * @source https://github.com/localip/dark-discord
+ * @updateUrl https://raw.githack.com/kckarnige/essential-theme/main/essential.theme.css
+*/
+@import url("https://localip.github.io/dark-discord/src/source.css");
+@import url("https://raw.githack.com/kckarnige/essential-theme/main/source.css");
+@import url("https://raw.githack.com/kckarnige/essential-theme/main/helpbgone.css");
+@import url("https://raw.githack.com/kckarnige/notitlebar-theme/main/classicTitlebar.theme.css");
+
+:root {
+    --mod-saturation-factor: 0.7; /* Default is .7 */
+    --mod-hue-factor: 130; /* Default hue is 230 */
+    --wordmark-text-color: #72767d;
+    --wordmark-text: "Discord";
+}
+[class*="anchor-"][class*="links-"],
+[class*="anchor-"][class*="links-"] svg {
+    color: var(--brand-500);
+    text-decoration: none;
+    transition: color 0.3s;
+    opacity: 1;
+}
+[class*="anchor-"][class*="links-"]:hover,
+[class*="anchor-"][class*="links-"]:hover svg {
+    color: var(--brand-360);
+    text-decoration: none;
+    transition: color 0.3s;
+    opacity: 1;
+}
+
+
