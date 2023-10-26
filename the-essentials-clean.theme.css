@@ -2,14 +2,14 @@
  * @name The Essentials: Charcoal Mint
  * @author KayoticCarnige
  * @authorId 634168893644210186
- * @authorLink https://github.com/kckarnige/essential-theme
- * @version 1.0.0
+ * @website https://github.com/kckarnige/essential-theme
+ * @authorLink https://github.com/kckarnige
+ * @version 1.0.1
  * @description A Discord theme to help whitten your teeth.
  * @donate https://ko-fi.com/kckarnige
- * @source https://github.com/localip/dark-discord
  * @updateUrl https://raw.githack.com/kckarnige/essential-theme/main/essential.theme.css
 */
-@import url("https://localip.github.io/dark-discord/src/source.css");
+@import url("https://kckarnige.github.io/dark-discord/src/source.css");
 @import url("https://raw.githack.com/kckarnige/essential-theme/main/source.css");
 @import url("https://raw.githack.com/kckarnige/essential-theme/main/helpbgone.css");
 @import url("https://raw.githack.com/kckarnige/notitlebar-theme/main/classicTitlebar.theme.css");
