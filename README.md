@@ -7,4 +7,4 @@
 
 #### *[kckarnige/essential-theme](https://github.com/kckarnige/essential-theme)*
 
-#### *[localip/dark-discord](https://github.com/localip/dark-discord)*
+#### *[kckarnige/dark-discord](https://github.com/kckarnige/dark-discord)* (Fork of *[localip/dark-discord](https://github.com/localip/dark-discord)*)
