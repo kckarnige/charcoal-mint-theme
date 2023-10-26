@@ -16,19 +16,19 @@
 
 :root {
     --mod-saturation-factor: 0.7; /* Default is .7 */
-    --mod-hue-factor: 230; /* Default hue is 230 */
+    --mod-hue-factor: 130; /* Default hue is 130 */
     --wordmark-text-color: #72767d;
     --wordmark-text: "Discord";
 }
-[class*="anchor-"][class*="links-"],
-[class*="anchor-"][class*="links-"] svg {
+[class*="anchor_"][class*="links_"],
+[class*="anchor_"][class*="links_"] svg {
     color: var(--brand-500);
     text-decoration: none;
     transition: color 0.3s;
     opacity: 1;
 }
-[class*="anchor-"][class*="links-"]:hover,
-[class*="anchor-"][class*="links-"]:hover svg {
+[class*="anchor_"][class*="links_"]:hover,
+[class*="anchor_"][class*="links_"]:hover svg {
     color: var(--brand-360);
     text-decoration: none;
     transition: color 0.3s;
