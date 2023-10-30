@@ -7,12 +7,12 @@
  * @version 1.0.5
  * @description A Discord theme to help whitten your teeth.
  * @donate https://ko-fi.com/kckarnige
- * @updateUrl https://raw.githack.com/kckarnige/essential-theme/main/essential.theme.css
+ * @updateUrl https://raw.githack.com/kckarnige/essential-theme-clean/main/the-essential-clean.theme.css
 */
 @import url("https://kckarnige.github.io/dark-discord/src/source.css");
 @import url("https://raw.githack.com/kckarnige/essential-theme/main/source.css");
 @import url("https://raw.githack.com/kckarnige/essential-theme/main/helpbgone.css");
-@import url("https://raw.githack.com/kckarnige/notitlebar-theme/main/classicTitlebar.theme.css");
+@import url("https://kckarnige.github.io/notitlebar-theme/classicTitlebar.theme.css");
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css");
 
 :root {
