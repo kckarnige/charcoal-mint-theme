@@ -4,7 +4,7 @@
  * @authorId 634168893644210186
  * @website https://github.com/kckarnige/essential-theme
  * @authorLink https://github.com/kckarnige
- * @version 1.0.5
+ * @version 1.0.6
  * @description A Discord theme to help whitten your teeth.
  * @donate https://ko-fi.com/kckarnige
  * @updateUrl https://raw.githack.com/kckarnige/essential-theme-clean/main/the-essential-clean.theme.css
@@ -16,6 +16,7 @@
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css");
 
 :root {
+    --home-icon: var(--mobile); /* --default, --classic, --mobile */
     --mod-saturation-factor: 0.7; /* Default is .7 */
     --mod-hue-factor: 130; /* Default hue is 130 */
     --wordmark-text-color: #72767d;
