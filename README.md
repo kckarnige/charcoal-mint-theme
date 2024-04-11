@@ -7,6 +7,6 @@
 
 #### *[kckarnige/essential-theme](https://github.com/kckarnige/essential-theme)*
 
-#### *[kckarnige/dark-discord](https://github.com/kckarnige/dark-discord)* (Fork of *[localip/dark-discord](https://github.com/localip/dark-discord)*)
+#### *[kckarnige/dark-discord](https://github.com/kckarnige/dark-discord)* (Fork of *[marioparaschiv/dark-discord](https://github.com/marioparaschiv/dark-discord)*)
 
 #### *[mwittrien/BetterDiscordAddons/../SettingsModal](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/SettingsModal)*
