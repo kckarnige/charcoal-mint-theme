@@ -13,7 +13,6 @@
 @import url("https://raw.githack.com/kckarnige/essential-theme/main/source.css");
 @import url("https://raw.githack.com/kckarnige/essential-theme/main/helpbgone.css");
 @import url("https://kckarnige.github.io/notitlebar-theme/classicTitlebar.theme.css");
-@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css");
 
 :root {
     --home-icon: var(--mobile); /* --default, --classic, --mobile */
@@ -27,12 +26,7 @@
 	--settingsmodalheight: 80vh;
 }
 
-[class*="sidebarRegionScroller_"] {
-    padding-top: 14px;
-}
-[class*="standardSidebarView_"] [class*="contentRegion_"] [class*="contentRegionScroller_"] {
-    padding-top: 18px;
-}
+
 
 [class*="anchor_"][class*="links_"],
 [class*="anchor_"][class*="links_"] svg {
