@@ -4,15 +4,15 @@
  * @authorId 634168893644210186
  * @website https://github.com/kckarnige/essential-theme-clean
  * @authorLink https://github.com/kckarnige
- * @version 1.0.6
+ * @version 1.0.8
  * @description A Discord theme to help whitten your teeth.
  * @donate https://www.buymeacoffee.com/kckarnige
  * @updateUrl https://raw.githack.com/kckarnige/essential-theme-clean/main/the-essential-clean.theme.css
 */
-@import url("https://kckarnige.github.io/dark-discord/src/source.css");
+@import url("https://raw.githack.com/kckarnige/dark-discord/main/src/source.css");
 @import url("https://raw.githack.com/kckarnige/essential-theme/main/source.css");
 @import url("https://raw.githack.com/kckarnige/essential-theme/main/helpbgone.css");
-@import url("https://kckarnige.github.io/notitlebar-theme/classicTitlebar.theme.css");
+@import url("https://raw.githack.com/kckarnige/notitlebar-theme/main/classicTitlebar.theme.css");
 
 :root {
     --home-icon: var(--mobile); /* --default, --classic, --mobile */
