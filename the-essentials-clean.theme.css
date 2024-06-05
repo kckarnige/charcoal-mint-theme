@@ -4,7 +4,7 @@
  * @authorId 634168893644210186
  * @website https://github.com/kckarnige/essential-theme-clean
  * @authorLink https://github.com/kckarnige
- * @version 1.0.8
+ * @version 1.0.9
  * @description A Discord theme to help whitten your teeth.
  * @donate https://www.buymeacoffee.com/kckarnige
  * @updateUrl https://raw.githack.com/kckarnige/essential-theme-clean/main/the-essential-clean.theme.css
@@ -26,7 +26,9 @@
 	--settingsmodalheight: 80vh;
 }
 
-
+nav[class*="guilds_"]>ul[class*="tree_"]>div[class*="none_"]::-webkit-scrollbar-thumb {
+    background: var(--scrollbar-thin-thumb) !important;
+}
 
 [class*="anchor_"][class*="links_"],
 [class*="anchor_"][class*="links_"] svg {
