@@ -1,10 +1,10 @@
 /**
  * @name Charcoal Mint
- * @author KCK
+ * @author KiCK
  * @authorId 634168893644210186
  * @website https://github.com/kckarnige/charcoal-mint-theme
  * @authorLink https://github.com/kckarnige
- * @version 1.1.1
+ * @version 1.1.2
  * @description A theme so clean, it makes your pearly whites look filthy in comparison.
  * @donate https://ko-fi.com/kckarnige
  * @updateUrl https://raw.githubusercontent.com/kckarnige/charcoal-mint-theme/main/charcoal-mint.theme.css
@@ -12,7 +12,7 @@
 @import url("https://raw.githubusercontent.com/kckarnige/dark-discord/refs/heads/main/src/source.css");
 @import url("https://raw.githubusercontent.com/kckarnige/charcoal-mint-theme/refs/heads/main/src/source.css");
 @import url("https://raw.githubusercontent.com/kckarnige/charcoal-mint-theme/refs/heads/main/src/helpbgone.css");
-@import url("https://raw.githubusercontent.com/kckarnige/notitlebar-theme/refs/heads/main/classicTitlebar.theme.css");
+@import url("https://raw.githubusercontent.com/kckarnige/notitlebar-theme/refs/heads/main/src/classicTitlebar.min.css");
 
 :root {
     --home-icon: var(--mobile); /* --default, --classic, --mobile */
