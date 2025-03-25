@@ -74,7 +74,7 @@
     fill: var(--brand-600) !important;
 }
 
-[data-list-item-id="guildsnav___home"]>[class*="childWrapper_"] {
+[class*="selected_"]>[data-list-item-id="guildsnav___home"]>[class*="childWrapper_"] {
     background-color: var(--brand-500) !important;
 }
 [data-list-item-id="guildsnav___home"]>[class*="childWrapper_"]>svg {
