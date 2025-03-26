@@ -5,6 +5,8 @@
 
 > *For any other client mod user, like Vencord web users (or if you want to be able to make quick edits), put the contents of "[mynt.theme.css](https://github.com/kckarnige/mynt-theme/blob/main/mynt.theme.css)" in your Quick CSS*
 
+#### *[kckarnige/notitlebar-theme](https://github.com/kckarnige/notitlebar-theme)*
+
 #### *[discord-extensions/modern-indicators](https://github.com/discord-extensions/modern-indicators)*
 
 #### *[Znunu/Discord-Purge-Nitro](https://github.com/Znunu/Discord-Purge-Nitro)*
