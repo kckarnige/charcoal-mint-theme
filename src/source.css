@@ -161,6 +161,9 @@
     background-color: var(--background-primary) !important;
 }
 
+[class*=blobContainer_]>[class*=wrapper_]>svg>foreignObject>[class*=wrapper__] {
+    background: #222225
+}
 
 :root {
     --text-brand: var(--brand-500) !important;
